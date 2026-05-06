@@ -1,0 +1,15 @@
+{
+  "name": "長照個案管理系統",
+  "short_name": "長照系統",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/4f46e5/ffffff?text=LTC",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
